@@ -1,6 +1,10 @@
 # Git Practice Project
 
-**Name:** Sourav Chakraborty
+## Student Info
+- **Name:** Sourav Chakraborty
 
-## What this project does
-A simple Python project to practice Git and GitHub basics, commits, branches, and merging.
+## Project Overview
+This is a small Python project created to practice:
+- Git init, add, commit
+- Branching and merging
+- Pushing to GitHub
